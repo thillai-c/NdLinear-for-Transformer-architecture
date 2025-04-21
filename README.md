@@ -155,9 +155,8 @@ output = output.reshape(32, 128, 768, 4).mean(dim=-1)
 This project uses NdLinear from the official repository:
 - [github.com/ensemble-core/NdLinear](https://github.com/ensemble-core/NdLinear)
 
-For more information and community support, visit:
+For more information visit:
 - [Ensemble AI](https://ensemblecore.ai)
-- [Discord Community](https://discord.gg/6DWHusWN)
 
 ## License
 
